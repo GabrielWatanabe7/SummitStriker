@@ -1,0 +1,24 @@
+import pygame
+
+pygame.init()
+
+# SCREEN
+WIDTH = 800
+HEIGHT = 600
+
+# COLORS
+C_WHITE = (255,255,255)
+C_BLACK = (0,0,0)
+C_RED = (255,0,0)
+
+# FPS
+FPS = 60
+
+# PLAYER
+PLAYER_SPEED = 5
+
+# BULLET
+BULLET_SPEED = 10
+
+# ENEMY
+ENEMY_SPEED = 3
